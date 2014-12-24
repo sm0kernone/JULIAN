@@ -1,1 +1,1 @@
-Change new on test 2
+Change new on test 2 merge with test 1
