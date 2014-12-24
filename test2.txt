@@ -1,3 +1,7 @@
+
 Change new on test 2 
 
 test 2 new text
+
+Change new on test 2 merge with test 1
+
